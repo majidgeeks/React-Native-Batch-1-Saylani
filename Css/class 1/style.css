@@ -1,0 +1,34 @@
+/* slider */
+/* .xyz{
+  background-color: black;
+  color: aliceblue;
+} */
+
+*{
+    background-color: yellow;
+}
+
+p, h2{
+    background-color: bisque;
+    /* height: 50px; */
+}
+
+
+/* card */
+.abc{
+  height: 500px;
+}
+
+/*  */
+
+#hello{
+    font-size: 20px;
+}
+
+li > a{
+    background-color: aliceblue;
+}
+
+p a {
+    font-size: larger;
+}
