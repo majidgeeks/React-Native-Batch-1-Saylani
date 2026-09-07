@@ -1,0 +1,40 @@
+.div1{
+    background-color: antiquewhite;
+    color: aquamarine;
+    border: 2px, solid, red;
+}
+
+.div2{
+    /* background-color: rgb(255, 100, 20); */
+    /* background-color: #3B8043; */
+    background-color: rgba(25, 50, 77, 1);
+    color: white;
+}
+
+.div3{
+    background-color: #512da8;
+}
+
+.para{
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+     font-family: "Smooch Sans", sans-serif;
+     font-weight: bold;
+}
+
+@font-face {
+    font-family: 'primaryItalic';
+    src: url(./fonts/Asap_Sharp/AsapSharp-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'secondary';
+    src: url(./fonts/Asap_Sharp/AsapSharp-VariableFont_wdth\,wght.ttf);
+}
+
+.para2{
+    font-family: 'primaryItalic';
+}
+
+.para3{
+    font-family: 'secondary';
+}
