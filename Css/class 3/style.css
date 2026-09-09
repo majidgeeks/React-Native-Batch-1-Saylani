@@ -1,0 +1,54 @@
+.p1{
+    font-style: italic;
+}
+
+.p1{
+    /* line-height: 14px; */
+}
+
+.p2{
+  text-transform: capitalize;
+}
+
+.p2{
+    text-decoration: underline;
+}
+
+li{
+    text-decoration:none ;
+}
+
+a{
+    text-decoration: none;
+}
+
+.p3{
+  letter-spacing: 0.2px;
+  word-spacing: 4px;
+}
+
+.p4{
+    /* text-align: justify; */
+    text-indent: 20px;
+}
+
+.div1{
+    height: 100px;
+    background-color: black;
+}
+
+.p5{
+    vertical-align: text-bottom;
+    /* vertical-align: text-bottom; */
+    background-color: blue;
+    color: white;
+    /* height: 60px; */
+}
+
+.p6{
+    /* text-shadow: 15px 6px 10px blue; */
+}
+
+/* .p6::first-letter{
+
+} */
