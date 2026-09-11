@@ -1,0 +1,33 @@
+/* .p1::first-letter{
+  font-size: 50px;
+} */
+
+.p1::first-line{
+   font-size: 50px;
+}
+
+
+/* a:link{
+    color: blueviolet;
+    background-color: beige;
+} */
+
+/* a:visited{
+    color: cadetblue;
+} */
+
+
+/* a:hover{
+    background-color: blue;
+    color: white;
+} */
+
+
+.btn:active{
+   background-color: red;
+   color: white;
+}
+
+.inp:focus{
+   background-color: chartreuse;
+}
