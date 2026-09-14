@@ -1,0 +1,41 @@
+/* .div1{
+    background-color: red;
+    color: white;
+    height: 60px;
+    width: 60%;
+    width: 400px;
+    max-width: 600px;
+    min-width: 400px;
+
+} */
+
+/* .p1{
+    background-color: antiquewhite;
+    color: black;
+    width: 400px;
+    width: 60%;
+    width: 400px;
+    height: 50px;
+} */
+
+
+.p2{
+    border-top-width: 2px ;
+border-right-width : 4px ;
+border-bottom-width : 8px ;
+border-left-width : 4px ;
+border-color: black;
+border-style: solid;
+}
+
+.p3{
+     border-top-width: 2px ;
+border-right-width : 4px ;
+border-bottom-width : 8px ;
+border-left-width : 4px ;
+border-color: black;
+border-bottom-style: dashed;
+border-top-style :dotted;
+border-left-style:double;
+border-right-style:groove
+}
