@@ -1,0 +1,82 @@
+/* ol{
+    list-style-type: decimal-leading-zero;
+    list-style: lower-roman;
+} */
+
+/* 
+ul {
+width: 150px;}
+li {
+margin: 10px;}
+ul.illuminations {
+list-style-position: outside;}
+ul.season {
+list-style-position: inside;} */
+
+/* .illuminations{
+    list-style-position: inside;
+}
+
+.season{
+    list-style-position: outside;
+} */
+
+/* ul{
+    list-style: inside circle;
+    margin-top: 10px;
+} */
+
+body {
+  font-family:
+    "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans",
+    Arial, sans-serif;
+}
+
+table{
+    width: 600px;
+}
+
+th, td {
+padding: 7px 10px 10px 10px;}
+
+th{
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;
+
+}
+
+.even{
+    background-color: #999;
+}
+
+/* tr:hover{
+   background-color: black;
+   color: white;
+} */
+
+/* td:hover{
+    background-color: black;
+    color: white;
+}
+
+.money{
+    text-align: right;
+} */
+
+
+td{
+    border: 2px solid black;
+    padding: 15px;
+    background-color: #0088dd;
+    
+}
+
+.one{
+    empty-cells: hide;
+    border-spacing: 15px 15px;
+    /* border-collapse: separate; */
+}
