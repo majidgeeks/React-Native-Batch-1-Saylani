@@ -1,0 +1,45 @@
+.abc{
+    font-size: large;
+    color: blueviolet;
+    background-color: beige;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+}
+
+.abc:focus{
+   background-color: black;
+   color: white;
+}
+
+#fia{
+     font-size: large;
+    color: blueviolet;
+    /* background-color: beige; */
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    background-image: url('./mes.jpg');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    background-position: left center;
+    padding-left: 40px;
+
+}
+
+.btn{
+    width: 500px;
+    height: 30px;
+    margin-top: 20px;
+    text-shadow: 0px 1px 1px gray;
+    background: #334245;
+background: linear-gradient(90deg, rgba(51, 66, 69, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+body{
+  background-image: url(./ike.jpg);
+  background-size:500px ;
+  background-repeat:no-repeat;
+  background-position:center center;
+}
