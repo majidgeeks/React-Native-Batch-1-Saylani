@@ -1,0 +1,27 @@
+.lab{
+    width: 100px;
+    float: left;
+}
+
+.hello{
+    /* cursor: pointer; */
+    /* cursor: move; */
+}
+
+/* .seco{
+    position: absolute;
+    top: 40px;
+    left: 50px;
+    bottom: 10px;
+    z-index: -1;
+    background-color: blue;
+    color: white;
+    
+} */
+
+.hello{
+    /* position: fixed; */
+    /* position: absolute;
+    top: 70px;
+    z-index: 0; */
+}
