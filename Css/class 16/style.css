@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/2150690789/vector/increase-and-decrease-line-icons-editable-stroke-contains-such-icons-as-arrow-chart-diagram.jpg?s=612x612&w=0&k=20&c=COuUtalzAgkcC4n07r5AqYArMUQp-QALwBxBiUeKKYs=);
+    background-repeat: no-repeat;
+    /* background-position: center bottom; */
+    background-position: 50% 50%;
+}
+
+.img:hover{
+   /* background-image: url('https://media.istockphoto.com/id/1569017499/vector/label-with-percent-check-mark-and-discount-app-icon-3d-web-vector-illustrations.jpg?s=612x612&w=0&k=20&c=HYzNUwof02EDJB9GRAVDUzeL3TeUMtlMnMpesqesYXE=');
+   background-repeat: no-repeat; */
+   background-position: 0px -40px;
+   
+}
+
+button{
+    /* background-color: black;
+    color: white; */
+    background: #051937;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #a8eb12, #00bf72, #008793, #004d7a, #051937);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #a8eb12, #00bf72, #008793, #004d7a, #051937); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+}
