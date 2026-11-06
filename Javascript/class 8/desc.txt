@@ -1,0 +1,16 @@
+take 5 subjects marks prompts from user
+calculate percentage
+calculate obtained marks
+calculate total marks
+show the Grade
+
+using if else condition 
+
+>= 90 (A)
+>= 80 (B)
+>= 70 (C)
+>= 60 (D)
+>= 50 (E) 
+
+alert(total marks, obtained marks, percentage, your Grade)
+`total marks are 500 your percentage is  your grade is A`
