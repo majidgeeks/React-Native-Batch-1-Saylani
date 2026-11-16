@@ -54,4 +54,20 @@
 
 // console.log(newarr);
 
+var user = false;
+
+
+
+
+
+
+
+// var arr = [];
+
+var arr1 = ['apple', 'water Mellon', 'banana'];
+
+console.log(arr1[1]);
+
+
+
 
