@@ -22,7 +22,7 @@ for(let i = 0; i < student.length; i++){
     alert('you are welcome')
     console.log('allow', allow);
     
-    break;
+    
 } 
 }
     if(allow === false){
